@@ -25,8 +25,8 @@
             <mxPoint x="-58" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8pB5E66EUDPTWyV27n4p-6" value="&lt;b style=&quot;color: rgb(255, 0, 0);&quot;&gt;部署到测试环境，&lt;/b&gt;功能验证" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1" source="8pB5E66EUDPTWyV27n4p-7" target="8pB5E66EUDPTWyV27n4p-8">
-          <mxGeometry x="0.1411" y="10" relative="1" as="geometry">
+        <mxCell id="8pB5E66EUDPTWyV27n4p-6" value="&lt;br&gt;&lt;b style=&quot;color: rgb(255, 0, 0);&quot;&gt;先更新develop最新代码，&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(255, 0, 0);&quot;&gt;然后部署环境做功能验证&lt;/b&gt;&lt;div&gt;&lt;br style=&quot;font-size: 12px; text-wrap: wrap;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1" source="8pB5E66EUDPTWyV27n4p-7" target="8pB5E66EUDPTWyV27n4p-8">
+          <mxGeometry x="0.2157" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -114,8 +114,8 @@
         <mxCell id="8pB5E66EUDPTWyV27n4p-28" value="develop" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
           <mxGeometry x="377" y="90" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8pB5E66EUDPTWyV27n4p-29" value="&lt;br&gt;&lt;span style=&quot;font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;部署到测试环境&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;，功能验证&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="280" width="160" height="10" as="geometry" />
+        <mxCell id="8pB5E66EUDPTWyV27n4p-29" value="&lt;br&gt;&lt;b style=&quot;color: rgb(255, 0, 0); font-size: 11px; text-wrap: nowrap;&quot;&gt;先更新develop最新代码，&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(255, 0, 0); font-size: 11px; text-wrap: nowrap;&quot;&gt;然后部署环境做功能验证&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="147" y="270" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8pB5E66EUDPTWyV27n4p-30" value="2、紧急修改线上bug时" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="17" y="835" width="193" height="30" as="geometry" />
